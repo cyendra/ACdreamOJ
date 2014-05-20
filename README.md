@@ -7,10 +7,12 @@
 1000 A + B Problem // AC  
 1001 整数交换 // AC  
 1007 a + b // TLE  
+1008 A Very Easy Triangle Counting Game // 找规律  
 1013 Count It // 水
 1060 递推数 // 不会  
 1061 郭氏树 // 小技巧  
+1068 sgx和路飞 // 数位dp+二分  
 1071 神奇的%系列一 // 暴力？  
-1077 LCM Challenge // 数学, 分情况讨论  
+1077 LCM Challenge // 数学,+分情况讨论  
 1080 Boy or Girl // 水  
 1096 无耻的出题人 // 水  
