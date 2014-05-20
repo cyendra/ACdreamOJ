@@ -19,5 +19,6 @@
 1072 Kill The Monster // dp  
 1073 雷霆战机 // 模拟  
 1077 LCM Challenge // 数学,+分情况讨论  
+1079 Walking in the Rain // 线性统计+模拟  
 1080 Boy or Girl // 水  
 1096 无耻的出题人 // 水  
