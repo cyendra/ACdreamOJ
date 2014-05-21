@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400586199 source:g:\documents\github\acdreamoj\1078 cutting figure\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+
