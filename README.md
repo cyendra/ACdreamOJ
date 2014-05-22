@@ -8,6 +8,7 @@
 1001 整数交换 // AC  
 1007 a + b // TLE  
 1008 A Very Easy Triangle Counting Game // 找规律  
+1012 Convex // 几何+三角形面积  
 1013 Count It // 水
 1060 递推数 // 循环节+矩阵  
 1061 郭氏树 // 小技巧  
